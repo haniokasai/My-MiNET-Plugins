@@ -33,4 +33,11 @@ https://github.com/haniokasai/KeepInventory
 
 
 
+https://github.com/haniokasai/AutoServerRestarter
+
+
+-AutoServerRestarter for MiNET
+
+
+
 ##Trash
