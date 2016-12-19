@@ -39,5 +39,10 @@ https://github.com/haniokasai/AutoServerRestarter
 -AutoServerRestarter for MiNET
 
 
+https://github.com/haniokasai/MyAuth-MiNET
+
+
+-Auth Plugin for minet
+
 
 ##Trash
