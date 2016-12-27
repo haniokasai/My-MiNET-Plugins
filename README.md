@@ -31,6 +31,17 @@ https://github.com/haniokasai/IPLogger-MiNET
 ##Dev
 
 
+
+https://github.com/haniokasai/MyAuth-MiNET
+
+
+-Auth Plugin for minet
+
+
+##Trash
+
+
+
 https://github.com/haniokasai/KeepInventory
 
 
@@ -42,12 +53,3 @@ https://github.com/haniokasai/AutoServerRestarter
 
 
 -AutoServerRestarter for MiNET
-
-
-https://github.com/haniokasai/MyAuth-MiNET
-
-
--Auth Plugin for minet
-
-
-##Trash
